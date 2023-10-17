@@ -1,0 +1,68 @@
+ Wits University Second Year Information Systems IIA Systems Analysis and Development Project2023
+Project Narrative:
+
+University is an amazing time in a student’s life. There’s the promise of new, exciting experiences,
+personal growth, and freedom. But it’s not without its own challenges and growing pains. One
+main challenge students experience is regarding their studies. Academics/lecturers within the
+university provide support to students via consultations as a method to ease the study
+challenges. Each student has a distinctive profile as a learner, with a unique academic
+background, strengths and areas of improvement, their own goals and objectives as well as
+particular courses and extra-curricula’s. Consultations provide individualized support to students
+understanding expectations and demands, clarifying goals, mapping out a plan, and learning new
+strategies, techniques and tools to attain success while maintaining overall wellbeing.
+Process of scheduling a consultation:
+The consultation process at the university can happen in the following ways:
+
+1. Specific dates, times and duration are provided in advance when the lecturer is available
+   (usually posted on the lecturer’s office door or shared on the Ulwazi site).
+Problem – Students have to wait outside the lecturer office for their turn during these pre-
+planned sessions. Not known how many students will be consulting with the lecturer at the same
+time.
+2. An email request is sent to the lecturer requesting a consultation.
+Problem – There is a time delay in receiving a response to the request.
+3. Students just proceed to the lecturer’s office hoping the lecturer is free to consult.
+Problem – This approach is not always a success.
+4. Students will either approach the lecturer after their class or speak to the lecturer in the
+   corridors.
+Problem – Not sufficient time is provided to get the support required.
+The issues with the current process of requesting a consultation are highlighted above. The
+university is looking to implement a system whereby students can make an appointment for a
+consultation. The proposed system is stand-alone, i.e. no network connectivity is included in
+system design and implementation.
+Users of the proposed system:
+
+   Students (Student number, First name, Last name, Degree type)
+   Lecturer (Lecturer number, First name, Last name, Office Info, Courses)
+   Administrator (Admin number, First name, Last name)
+General Description:
+This Consultation Reservation System is a self-contained system that allows students to book
+consultations and lecturers to manage consultations. Various stakeholders are involved in this
+system.
+Possible System Functions:
+
+   Provide an application that enables students to book a consultation with any available
+    lecturer.
+   Lecturers will be able to view their consultations and manage them properly.
+   Coordinate various calendars and finding available time slots for consultations.
+   Reserve equipment and rooms for consultations.
+   Alert students in case there is an earlier available time slot.
+User Characteristics:
+
+The system will be used in the university. The lecturers and students will be the main users. Given
+the condition that not all the users are computer-literate. Some users may have to be trained on
+using the system. The system is also designed to be user-friendly. It uses a Graphical User
+Interface (GUI).
+Student: The people who want to book the consultation
+Lecturer: The specialist whom consultations are being booked for.
+Administrator: They are responsible for maintaining and overseeing the database of the system.
+What is the proposed system supposed to do?
+A student books a consultation with a lecturer based on available time slots. The lecturer has a
+consultation. The lecture creates their available time slots. The lecture belongs to a department.
+The school has many departments. A student makes enquiries regarding the details of the
+consultation. Individual (content based) or group (project based) consultations can be requested.
+Consultations can be assigned a status, e.g. upcoming/pending or completed. The admin
+manages users (add, delete, update) as well as generate reports based on information provided
+by the system (number of consults completed or pending per month; total number of
+students/lecturers existing on the system, etc.).
+NB: Details can change as the project progresses into the various phases.
+
