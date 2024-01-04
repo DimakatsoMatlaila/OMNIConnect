@@ -2,6 +2,7 @@
 
 1. **OMNIConnect** is a desktop application developed on Visual Studio 2022,With Microsoft Access Databse.
 2. **OMNIConnect** was developed as a second year project for Information Systems II at University of the Witwatersrand,Read [Narrative](https://github.com/DimakatsoMatlaila/OMNIConnect/blob/master/ProjectNarrative.txt).
+3. **OMNIConnect** Documentation files Start with MS(i.e MS1,MS2)
 
 **Requirements to run the Source code locally**:
 
