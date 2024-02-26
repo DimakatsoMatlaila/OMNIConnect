@@ -11,4 +11,4 @@
 3. Place the database file in a distinct directory and modify the directories in the code to match your machine.
 4. Lastly, make sure to have the Live charts plugin installed on your Visual Studio. Watch [This video](https://www.youtube.com/watch?v=abzRwBe6Qsc).
 
-You found the page!! Congrats! But here is Flag 3/8 : 
+You found the page!! Congrats! But here is Flag 3/8 : "G17_"
