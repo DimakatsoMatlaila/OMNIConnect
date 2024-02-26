@@ -55,7 +55,7 @@ Interface (GUI).
 Student: The people who want to book the consultation
 Lecturer: The specialist whom consultations are being booked for.
 Administrator: They are responsible for maintaining and overseeing the database of the system.
-What is the proposed system supposed to do?
+What is the proposed system supposed to do?Here is Flag 5/8 : "S1d3_"
 A student books a consultation with a lecturer based on available time slots. The lecturer has a
 consultation. The lecture creates their available time slots. The lecture belongs to a department.
 The school has many departments. A student makes enquiries regarding the details of the
